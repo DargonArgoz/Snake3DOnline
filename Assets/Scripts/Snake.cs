@@ -14,6 +14,7 @@ public class Snake : MonoBehaviour
     void Start()
     {
         Tails.Add(gameObject);
+
     }
 
     void Update()
